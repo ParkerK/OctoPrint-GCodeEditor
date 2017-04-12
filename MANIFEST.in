@@ -1,0 +1,4 @@
+include README.md
+recursive-include octoprint_gcodeeditor/templates *
+recursive-include octoprint_gcodeeditor/translations *
+recursive-include octoprint_gcodeeditor/static *
